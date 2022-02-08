@@ -6,4 +6,4 @@ if var == var[::-1]:
     print("it is palindrome")
 
 else:
-    print("no")
+    print("it is not palindrome")
